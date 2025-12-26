@@ -10,7 +10,7 @@ Homeboi installs and wires a self-hosted media stack (Plex/Jellyfin + *arr + dow
 Prereqs: Docker. (Homeboi can install Ansible if needed when you run the CLI.)
 
 ```bash
-git clone https://github.com/Cryptizer69/Homeboi.git Homeboi
+git clone https://github.com/SgtDinosaur/Homeboi.git Homeboi
 cd Homeboi
 ./install.sh
 homeboi
